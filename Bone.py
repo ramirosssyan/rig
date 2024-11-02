@@ -45,3 +45,6 @@ class Bone:
 
         for child in self.children:
             child.draw(window)
+
+
+# lol!!!
